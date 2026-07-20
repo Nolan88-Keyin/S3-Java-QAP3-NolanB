@@ -1,1 +1,0 @@
-# S3-Java-QAP3-NolanB
